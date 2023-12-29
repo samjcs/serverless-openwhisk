@@ -41,7 +41,7 @@
     "openwhisk": "^3.19.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^5.0.0",
     "chai-as-promised": "^6.0.0",
     "coveralls": "^3.0.3",
     "istanbul": "^0.4.4",
